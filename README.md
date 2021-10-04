@@ -4,7 +4,7 @@ This is an iOS Development course using SwiftUI from Stanford university, and th
 
 ## Assignments
 
-- [Assignment 1](https://github.com/mohamedspicer/CS193p-Developing-Apps-for-iOS/tree/master/Assigment1-Memorize)
+- [Assignment 1](https://github.com/mohamedspicer/CS193p-Developing-Apps-for-iOS/tree/master/Assignment1-Memorize)
 
 ## Reasource
 
