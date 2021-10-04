@@ -26,7 +26,7 @@ struct ContentView: View {
                              "🍑", "🥭", "🍍", "🥥", "🥝", "🍅",
                              "🥑", "🍆", "🥦", "🥬", "🥒", "🌶"]
     
-    @State var emojiCount = 18
+    @State var emojiCount = Int.random(in: 8..<24)
     @State var emojis = vehicleTheme
     var body: some View {
         VStack {
@@ -59,7 +59,7 @@ struct ContentView: View {
     var vehiclesThemeButton: some View {
         Button {
             emojis = ContentView.vehicleTheme
-            emojiCount = 18
+            emojiCount = Int.random(in: 8..<24)
         } label: {
             VStack {
                 Image(systemName: "car").font(.title)
@@ -71,7 +71,7 @@ struct ContentView: View {
     var sportThemeButton: some View {
         Button{
             emojis = ContentView.sportTheme
-            emojiCount = 16
+            emojiCount = Int.random(in: 8..<24)
         } label: {
             VStack {
                 Image(systemName: "sportscourt").font(.title)
@@ -83,7 +83,7 @@ struct ContentView: View {
     var foodThemeButton: some View {
         Button{
             emojis = ContentView.foodTheme
-            emojiCount = 20
+            emojiCount = Int.random(in: 8..<24)
         } label: {
             VStack{
                 Image(systemName: "pills").font(.title)
