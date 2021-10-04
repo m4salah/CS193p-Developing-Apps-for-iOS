@@ -2,9 +2,9 @@
 This is an iOS Development course using SwiftUI from Stanford university, and this repository to track my progress in this course. 
 
 
-## Assigments
+## Assignments
 
-- [Assigment 1](https://github.com/mohamedspicer/CS193p-Developing-Apps-for-iOS/tree/master/Assigment1-Memorize)
+- [Assignment 1](https://github.com/mohamedspicer/CS193p-Developing-Apps-for-iOS/tree/master/Assigment1-Memorize)
 
 ## Reasource
 
