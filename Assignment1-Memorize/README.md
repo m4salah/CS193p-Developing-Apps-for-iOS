@@ -3,7 +3,7 @@ This is Assignment 1 from week2 in the course.
 
 ## Screenshots
 
-<img src="./Demo/memorizeUIDemo.mp4" width=350px />
+<img src="./Demo/memorizeUIDemo.gif" width=350px />
 
 
 ## Requirement
