@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D9F995DF270671A3009D880A /* Assigment1-Memorize.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Assigment1-Memorize.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D9F995DF270671A3009D880A /* Assignment1-Memorize.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Assignment1-Memorize.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9F995E2270671A3009D880A /* Assigment1-MemorizeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Assigment1-MemorizeApp.swift"; sourceTree = "<group>"; };
 		D9F995E4270671A3009D880A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D9F995E6270671A4009D880A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -36,7 +36,7 @@
 		D9F995D6270671A3009D880A = {
 			isa = PBXGroup;
 			children = (
-				D9F995E1270671A3009D880A /* Assigment1-Memorize */,
+				D9F995E1270671A3009D880A /* Assignment1-Memorize */,
 				D9F995E0270671A3009D880A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -44,12 +44,12 @@
 		D9F995E0270671A3009D880A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D9F995DF270671A3009D880A /* Assigment1-Memorize.app */,
+				D9F995DF270671A3009D880A /* Assignment1-Memorize.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D9F995E1270671A3009D880A /* Assigment1-Memorize */ = {
+		D9F995E1270671A3009D880A /* Assignment1-Memorize */ = {
 			isa = PBXGroup;
 			children = (
 				D9F995E2270671A3009D880A /* Assigment1-MemorizeApp.swift */,
@@ -58,7 +58,7 @@
 				D9F995EB270671A4009D880A /* Info.plist */,
 				D9F995E8270671A4009D880A /* Preview Content */,
 			);
-			path = "Assigment1-Memorize";
+			path = "Assignment1-Memorize";
 			sourceTree = "<group>";
 		};
 		D9F995E8270671A4009D880A /* Preview Content */ = {
@@ -72,9 +72,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D9F995DE270671A3009D880A /* Assigment1-Memorize */ = {
+		D9F995DE270671A3009D880A /* Assignment1-Memorize */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D9F995EE270671A4009D880A /* Build configuration list for PBXNativeTarget "Assigment1-Memorize" */;
+			buildConfigurationList = D9F995EE270671A4009D880A /* Build configuration list for PBXNativeTarget "Assignment1-Memorize" */;
 			buildPhases = (
 				D9F995DB270671A3009D880A /* Sources */,
 				D9F995DC270671A3009D880A /* Frameworks */,
@@ -84,9 +84,9 @@
 			);
 			dependencies = (
 			);
-			name = "Assigment1-Memorize";
+			name = "Assignment1-Memorize";
 			productName = week1;
-			productReference = D9F995DF270671A3009D880A /* Assigment1-Memorize.app */;
+			productReference = D9F995DF270671A3009D880A /* Assignment1-Memorize.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -103,7 +103,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D9F995DA270671A3009D880A /* Build configuration list for PBXProject "Assigment1-Memorize" */;
+			buildConfigurationList = D9F995DA270671A3009D880A /* Build configuration list for PBXProject "Assignment1-Memorize" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -116,7 +116,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D9F995DE270671A3009D880A /* Assigment1-Memorize */,
+				D9F995DE270671A3009D880A /* Assignment1-Memorize */,
 			);
 		};
 /* End PBXProject section */
@@ -269,17 +269,17 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Assigment1-Memorize/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Assignment1-Memorize/Preview Content\"";
 				DEVELOPMENT_TEAM = DA26DVF427;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = "Assigment1-Memorize/Info.plist";
+				INFOPLIST_FILE = "Assignment1-Memorize/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 0.1;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.webview-test-ok.Assigment1-Memorize";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.webview-test-ok.Assignment1-Memorize";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -293,17 +293,17 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Assigment1-Memorize/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Assignment1-Memorize/Preview Content\"";
 				DEVELOPMENT_TEAM = DA26DVF427;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = "Assigment1-Memorize/Info.plist";
+				INFOPLIST_FILE = "Assignment1-Memorize/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 0.1;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.webview-test-ok.Assigment1-Memorize";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.webview-test-ok.Assignment1-Memorize";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -313,7 +313,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D9F995DA270671A3009D880A /* Build configuration list for PBXProject "Assigment1-Memorize" */ = {
+		D9F995DA270671A3009D880A /* Build configuration list for PBXProject "Assignment1-Memorize" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D9F995EC270671A4009D880A /* Debug */,
@@ -322,7 +322,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D9F995EE270671A4009D880A /* Build configuration list for PBXNativeTarget "Assigment1-Memorize" */ = {
+		D9F995EE270671A4009D880A /* Build configuration list for PBXNativeTarget "Assignment1-Memorize" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D9F995EF270671A4009D880A /* Debug */,
